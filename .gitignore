@@ -1,0 +1,7 @@
+*.png
+*.svg
+*.flg
+*.twp
+spleeter_tracks/
+videos/
+wavs/
